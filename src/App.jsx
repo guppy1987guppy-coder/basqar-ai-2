@@ -202,3 +202,5 @@ function EditModal({data,onClose,onSave}) {
 }
 
 export default App;
+
+// BASQAR AI 2.0 - жаңарту
